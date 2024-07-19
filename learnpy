@@ -1,0 +1,19 @@
+
+
+
+first = 'ajay k baiju'
+print(len(first))
+
+print(first.upper())
+print(first)
+print(first[:11].lower())
+print(first.find('k baiju'))
+print(first.replace('k baiju','karukathara baiju'))
+print(first.replace('baiju','kb'))
+print('ajay' in first)
+print(first.title())
+print(first[:4])
+
+
+
+
